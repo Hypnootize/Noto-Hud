@@ -1,8 +1,8 @@
 # Noto Hud
- Screenshots: https://imgur.com/a/wrdN8uY
 
 <a>LINKS</a>
 ====
+[Original Repository](https://github.com/omnibombulator/noto)
 
 [Screenshot Album](https://imgur.com/a/wrdN8uY)
 
