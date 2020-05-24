@@ -12,13 +12,9 @@
 <a>INSTALLATION</a>
 ====
 
-**1)** Extract/Unzip the hud
+**1)** Extract/Unzip the hud and copy the Noto Hud Folder
 
-**2)** Copy the noto hud folder (**NOT** noto-hud-Master, the one inside it!)
-
-**3)** Paste The folder to your custom tf folder (C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom\noto hud)
-
-**4)** Go to Resource/Fonts select all the font and install them (rightclick while selected and install)
+**3)** Paste The folder to your custom tf folder (C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom)
 
 **NOTES:**
 
